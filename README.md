@@ -228,9 +228,9 @@ Homework 3: Training neural ordinary differential equations (with GPUs)
 
 # Homeworks
 
-- [Homework 1: Parallelized Dynamics. Due October 1st](https://mitmath.github.io/18337/hw1/hw1)
-- [Homework 2: Parameter Estimation in Dynamical Systems and Bandwidth Maximization. Due November 5th](https://mitmath.github.io/18337/hw2/hw2)
-- [Homework 3: Neural Ordinary Differential Equation Adjoints. Due December 9th](https://mitmath.github.io/18337/hw3/hw3)
+- [ ] [Homework 1: Parallelized Dynamics. Due October 1st](https://mitmath.github.io/18337/hw1/hw1)
+- [ ] [Homework 2: Parameter Estimation in Dynamical Systems and Bandwidth Maximization. Due November 5th](https://mitmath.github.io/18337/hw2/hw2)
+- [ ] [Homework 3: Neural Ordinary Differential Equation Adjoints. Due December 9th](https://mitmath.github.io/18337/hw3/hw3)
 
 # Lecture Summaries and Handouts
 
@@ -241,7 +241,7 @@ than 1 class day, others are less.
 
 ### Lecture and Notes
 
-- [Introduction and Syllabus (Lecture)](https://youtu.be/3IoqyXmAAkU)
+- [ ] [Introduction and Syllabus (Lecture)](https://youtu.be/3IoqyXmAAkU)
 
 This is to make sure we're all on the same page. It goes over the syllabus and
 what will be expected of you throughout the course. If you have not joined the Slack,
@@ -251,26 +251,26 @@ please use the link from the introduction email (or email me if you need the lin
 
 ### Lecture and Notes
 
-- [Getting Started with Julia for Experienced Programmers (Lecture)](https://youtu.be/-lJK92bEKow)
-- [Julia for Numerical Computation in MIT Courses](https://github.com/mitmath/julia-mit)
-- [Steven Johnson: MIT Julia Tutorial](https://mit.zoom.us/rec/play/E4zN_2MXQmCjX12admWsmsbG6hIlWJztnMmFjlfDEBnlAj8V2qisRn-CLI_WVnUGJFZ4bV6JGM-41m-u.LeAWxiLriV5HwqBK?startTime=1599594382000)
+- [ ] [Getting Started with Julia for Experienced Programmers (Lecture)](https://youtu.be/-lJK92bEKow)
+- [ ] [Julia for Numerical Computation in MIT Courses](https://github.com/mitmath/julia-mit)
+- [ ] [Steven Johnson: MIT Julia Tutorial](https://mit.zoom.us/rec/play/E4zN_2MXQmCjX12admWsmsbG6hIlWJztnMmFjlfDEBnlAj8V2qisRn-CLI_WVnUGJFZ4bV6JGM-41m-u.LeAWxiLriV5HwqBK?startTime=1599594382000)
 
 ### Optional Extra Resources
 
 If you are not comfortable with Julia yet, here's a few resources as sort of a
 "crash course" to get you up an running:
 
-- [The Julia Manual](https://docs.julialang.org/en/v1/)
-- [Developing Julia Packages](https://youtu.be/QVmU29rCjaA)
-- [Julia Tutorial (Youtube Video by Jane Herriman)](https://www.youtube.com/watch?v=8h8rQyEpiZA)
+- [ ] [The Julia Manual](https://docs.julialang.org/en/v1/)
+- [ ] [Developing Julia Packages](https://youtu.be/QVmU29rCjaA)
+- [ ] [Julia Tutorial (Youtube Video by Jane Herriman)](https://www.youtube.com/watch?v=8h8rQyEpiZA)
 
 Some deeper materials:
 
-- [ThinkJulia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
-- [Julia Wikibook](https://en.wikibooks.org/wiki/Introducing_Julia)
-- [Intro To Julia for Data Science and Scientific Computing (With Problems and Answers)](http://ucidatascienceinitiative.github.io/IntroToJulia/)
-- [QuantEcon Cheatsheet](https://cheatsheets.quantecon.org/)
-- [Julia Noteworthy Differences from Other Languages](https://docs.julialang.org/en/v1/manual/noteworthy-differences/)
+- [ ] [ThinkJulia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
+- [ ] [Julia Wikibook](https://en.wikibooks.org/wiki/Introducing_Julia)
+- [ ] [Intro To Julia for Data Science and Scientific Computing (With Problems and Answers)](http://ucidatascienceinitiative.github.io/IntroToJulia/)
+- [ ] [QuantEcon Cheatsheet](https://cheatsheets.quantecon.org/)
+- [ ] [Julia Noteworthy Differences from Other Languages](https://docs.julialang.org/en/v1/manual/noteworthy-differences/)
 
 Steven Johnson will be running a Julia workshop on 9/8/2020 for people who are
 interested. More details TBA.
@@ -279,18 +279,18 @@ interested. More details TBA.
 
 ### Lecture and Notes
 
-- [Optimizing Serial Code in Julia 1: Memory Models, Mutation, and Vectorization (Lecture)](https://youtu.be/M2i7sSRcSIw)
-- [Optimizing Serial Code in Julia 2: Type inference, function specialization, and dispatch (Lecture)](https://youtu.be/10_Ukm9wr9g)
-- [Optimizing Serial Code (Notes)](https://mitmath.github.io/18337/lecture2/optimizing)
+- [ ] [Optimizing Serial Code in Julia 1: Memory Models, Mutation, and Vectorization (Lecture)](https://youtu.be/M2i7sSRcSIw)
+- [ ] [Optimizing Serial Code in Julia 2: Type inference, function specialization, and dispatch (Lecture)](https://youtu.be/10_Ukm9wr9g)
+- [ ] [Optimizing Serial Code (Notes)](https://mitmath.github.io/18337/lecture2/optimizing)
 
 ### Optional Extra Resources
 
-- [Optimizing Your DiffEq Code](https://tutorials.sciml.ai/html/introduction/03-optimizing_diffeq_code.html)
-- [Type-Dispatch Design: Post Object-Oriented Programming for Julia](https://www.stochasticlifestyle.com/type-dispatch-design-post-object-oriented-programming-julia/)
-- [Performance Matters](https://www.youtube.com/watch?v=r-TLSBdHe1A0)
-- [You're doing it wrong (B-heaps vs Binary Heaps and Big O)](http://phk.freebsd.dk/B-Heap/queue.html)
-- [Bjarne Stroustrup: Why you should avoid Linked Lists](https://www.youtube.com/watch?v=YQs6IC-vgmo)
-- [What scientists must know about hardware to write fast code](https://biojulia.net/post/hardware/)
+- [ ] [Optimizing Your DiffEq Code](https://tutorials.sciml.ai/html/introduction/03-optimizing_diffeq_code.html)
+- [ ] [Type-Dispatch Design: Post Object-Oriented Programming for Julia](https://www.stochasticlifestyle.com/type-dispatch-design-post-object-oriented-programming-julia/)
+- [ ] [Performance Matters](https://www.youtube.com/watch?v=r-TLSBdHe1A0)
+- [ ] [You're doing it wrong (B-heaps vs Binary Heaps and Big O)](http://phk.freebsd.dk/B-Heap/queue.html)
+- [ ] [Bjarne Stroustrup: Why you should avoid Linked Lists](https://www.youtube.com/watch?v=YQs6IC-vgmo)
+- [ ] [What scientists must know about hardware to write fast code](https://biojulia.net/post/hardware/)
 
 Before we start to parallelize code, build huge models, and automatically learn
 physics, we need to make sure our code is "good". How do you know you're writing
@@ -300,16 +300,16 @@ is efficient.
 
 ## Lecture 3: Introduction to Scientific Machine Learning Through Physics-Informed Neural Networks
 
-- [Introduction to Scientific Machine Learning 1: Deep Learning as Function Approximation (Lecture)](https://youtu.be/C3vf9ZFYbjI)
-- [Introduction to Scientific Machine Learning 2: Physics-Informed Neural Networks (Lecture)](https://youtu.be/hKHl68Fdpq4)
-- [Introduction to Scientific Machine Learning through Physics-Informed Neural Networks (Notes)](https://mitmath.github.io/18337/lecture3/sciml.html)
+- [ ] [Introduction to Scientific Machine Learning 1: Deep Learning as Function Approximation (Lecture)](https://youtu.be/C3vf9ZFYbjI)
+- [ ] [Introduction to Scientific Machine Learning 2: Physics-Informed Neural Networks (Lecture)](https://youtu.be/hKHl68Fdpq4)
+- [ ] [Introduction to Scientific Machine Learning through Physics-Informed Neural Networks (Notes)](https://mitmath.github.io/18337/lecture3/sciml.html)
 
 ### Optional Extra Resources
 
-- [Doing Scientific Machine Learning (4 hour workshop)](https://www.youtube.com/watch?v=QwVO0Xh2Hbg)
-- [Universal Differential Equations for Scientific Machine Learning](https://www.youtube.com/watch?v=5zaB1B4hOnQ)
-- [JuliaCon 2020 | Keynote: Scientific Machine Learning | Prof Karen Willcox (High Level)](https://www.youtube.com/watch?v=Bk4PJnjuPps)
-- [DOE Workshop Report on Basic Research Needs for Scientific Machine Learning](https://www.osti.gov/servlets/purl/1478744)
+- [ ] [Doing Scientific Machine Learning (4 hour workshop)](https://www.youtube.com/watch?v=QwVO0Xh2Hbg)
+- [ ] [Universal Differential Equations for Scientific Machine Learning](https://www.youtube.com/watch?v=5zaB1B4hOnQ)
+- [ ] [JuliaCon 2020 | Keynote: Scientific Machine Learning | Prof Karen Willcox (High Level)](https://www.youtube.com/watch?v=Bk4PJnjuPps)
+- [ ] [DOE Workshop Report on Basic Research Needs for Scientific Machine Learning](https://www.osti.gov/servlets/purl/1478744)
 
 Now let's take our first stab at the application: scientific machine learning.
 What is scientific machine learning? We will define the field by looking at a
@@ -327,17 +327,17 @@ differential equation.
 
 ## Lecture 4: Introduction to Discrete Dynamical Systems
 
-- [How Loops Work 1: An Introduction to the Theory of Discrete Dynamical Systems (Lecture)](https://www.youtube.com/watch?v=GhBARuHEydM)
-- [How Loops Work 2: Computationally-Efficient Discrete Dynamics (Lecture)](https://youtu.be/AXHLyHfyEuA)
-- [How Loops Work, An Introduction to Discrete Dynamics (Notes)](https://mitmath.github.io/18337/lecture4/dynamical_systems.html)
+- [ ] [How Loops Work 1: An Introduction to the Theory of Discrete Dynamical Systems (Lecture)](https://www.youtube.com/watch?v=GhBARuHEydM)
+- [ ] [How Loops Work 2: Computationally-Efficient Discrete Dynamics (Lecture)](https://youtu.be/AXHLyHfyEuA)
+- [ ] [How Loops Work, An Introduction to Discrete Dynamics (Notes)](https://mitmath.github.io/18337/lecture4/dynamical_systems.html)
 
 ### Optional Extra Resources
 
-- [Strogatz: Nonlinear Dynamics and Chaos](https://www.amazon.com/Nonlinear-Dynamics-Chaos-Applications-Nonlinearity/dp/0738204536)
-- [Stability of discrete dynamics equilibrium](https://mathinsight.org/equilibria_discrete_dynamical_systems_stability)
-- [Behavior of continuous linear dynamical systems](https://chrisrackauckas.com/assets/Papers/ChrisRackauckas-ContinuousDynamics.pdf)
-- [Golden Ratio Growth Argument](https://github.com/facebook/folly/blob/master/folly/docs/FBVector.md)
-- [Golden Ratio Growth PR and timings](https://github.com/JuliaLang/julia/pull/16305)
+- [ ] [Strogatz: Nonlinear Dynamics and Chaos](https://www.amazon.com/Nonlinear-Dynamics-Chaos-Applications-Nonlinearity/dp/0738204536)
+- [ ] [Stability of discrete dynamics equilibrium](https://mathinsight.org/equilibria_discrete_dynamical_systems_stability)
+- [ ] [Behavior of continuous linear dynamical systems](https://chrisrackauckas.com/assets/Papers/ChrisRackauckas-ContinuousDynamics.pdf)
+- [ ] [Golden Ratio Growth Argument](https://github.com/facebook/folly/blob/master/folly/docs/FBVector.md)
+- [ ] [Golden Ratio Growth PR and timings](https://github.com/JuliaLang/julia/pull/16305)
 
 Now that the stage is set, we see that to go deeper we will need a good grasp
 on how both discrete and continuous dynamical systems work. We will start by
@@ -360,12 +360,12 @@ dynamical systems which will be further explored through the rest of the course.
 
 ## Lecture 5: Array-Based Parallelism, Embarrassingly Parallel Problems, and Data-Parallelism: The Basics of Single Node Parallel Computing
 
-- [The Basics of Single Node Parallel Computing (Lecture)](https://youtu.be/eca6kcFntiE)
-- [The Basics of Single Node Parallel Computing (Notes)](https://mitmath.github.io/18337/lecture5/parallelism_overview.html)
+- [ ] [The Basics of Single Node Parallel Computing (Lecture)](https://youtu.be/eca6kcFntiE)
+- [ ] [The Basics of Single Node Parallel Computing (Notes)](https://mitmath.github.io/18337/lecture5/parallelism_overview.html)
 
 ### Optional Extra Resources
 
-- [Chart of CPU Operation Costs](http://ithare.com/wp-content/uploads/part101_infographics_v08.png)
+- [ ] [Chart of CPU Operation Costs](http://ithare.com/wp-content/uploads/part101_infographics_v08.png)
 
 Now that we have a concrete problem, let's start investigating ways to
 parallelize its solution. We will first see that many systems have an almost
@@ -382,8 +382,8 @@ considerations will be discussed.
 
 ## Lecture 6: Styles of Parallelism
 
-- [The Different Flavors of Parallelism: Parallel Programming Models (Lecture)](https://youtu.be/EP5VWwPIews)
-- [The Different Flavors of Parallelism (Notes)](https://mitmath.github.io/18337/lecture6/styles_of_parallelism.html)
+- [ ] [The Different Flavors of Parallelism: Parallel Programming Models (Lecture)](https://youtu.be/EP5VWwPIews)
+- [ ] [The Different Flavors of Parallelism (Notes)](https://mitmath.github.io/18337/lecture6/styles_of_parallelism.html)
 
 Here we continue down the line of describing methods of parallelism by giving a
 high level overview of the types of parallelism. SIMD and multithreading are
@@ -398,16 +398,16 @@ hardware abstractions.
 
 ## Lecture 7: Ordinary Differential Equations: Applications and Discretizations
 
-- [Ordinary Differential Equations 1: Applications and Solution Characteristics (Lecture)](https://youtu.be/riAbPZy9gFc)
-- [Ordinary Differential Equations 2: Discretizations and Stability (Lecture)](https://youtu.be/HMmOk9GIhsw)
-- [Ordinary Differential Equations: Applications and Discretizations (Notes)](https://mitmath.github.io/18337/lecture7/discretizing_odes.html)
+- [ ] [Ordinary Differential Equations 1: Applications and Solution Characteristics (Lecture)](https://youtu.be/riAbPZy9gFc)
+- [ ] [Ordinary Differential Equations 2: Discretizations and Stability (Lecture)](https://youtu.be/HMmOk9GIhsw)
+- [ ] [Ordinary Differential Equations: Applications and Discretizations (Notes)](https://mitmath.github.io/18337/lecture7/discretizing_odes.html)
 
 In this lecture we will describe ordinary differential equations, where they arise in scientific contexts, and how they are solved. We will see that understanding the properties of the numerical methods requires understanding the dynamics of the discrete system generated from the approximation to the continuous system, and thus stability of a numerical method is directly tied to the stability properties of the dynamics. This gives the idea of stiffness, which is a larger computational idea about ill-conditioned systems.
 
 ## Lecture 8: Forward-Mode Automatic Differentiation
 
-- [Forward-Mode Automatic Differentiation (AD) via High Dimensional Algebras (Lecture)](https://youtu.be/zHPXGBiTM5A)
-- [Forward-Mode Automatic Differentiation (AD) via High Dimensional Algebras (Notes)](https://mitmath.github.io/18337/lecture8/automatic_differentiation.html)
+- [ ] [Forward-Mode Automatic Differentiation (AD) via High Dimensional Algebras (Lecture)](https://youtu.be/zHPXGBiTM5A)
+- [ ] [Forward-Mode Automatic Differentiation (AD) via High Dimensional Algebras (Notes)](https://mitmath.github.io/18337/lecture8/automatic_differentiation.html)
 
 As we will soon see, the ability to calculate derivatives underpins a lot of problems in both scientific computing and machine learning. We will specifically see it show up in later lectures on solving implicit equations f(x)=0 for stiff ordinary differential equation solvers, and in fitting neural networks. The common high performance way that this is done is called automatic differentiation. This lecture introduces the methods of forward and reverse mode automatic differentiation to setup future studies uses of the technique.
 
@@ -415,18 +415,18 @@ As we will soon see, the ability to calculate derivatives underpins a lot of pro
 
 #### Lecture Notes
 
-- [Solving Stiff Ordinary Differential Equations (Lecture)](https://youtu.be/bY2VCoxMuo8)
-- [Solving Stiff Ordinary Differential Equations (Notes)](https://mitmath.github.io/18337/lecture9/stiff_odes)
+- [ ] [Solving Stiff Ordinary Differential Equations (Lecture)](https://youtu.be/bY2VCoxMuo8)
+- [ ] [Solving Stiff Ordinary Differential Equations (Notes)](https://mitmath.github.io/18337/lecture9/stiff_odes)
 
 #### Additional Readings on Convergence of Newton's Method
 
-- [Newton's Method](https://link.springer.com/chapter/10.1007%2F978-1-4612-0701-6_8)
-- [Relaxed Newton's Method](https://pdfs.semanticscholar.org/1844/34b366f337972aa94a601fabd251d0baf62f.pdf)
-- [Convergence of Pure and Relaxed Newton Methods](https://www.sciencedirect.com/science/article/pii/S00243795130067820)
-- [Smale's Alpha Theory for Newton Convergence](http://cswiercz.info/2016/01/20/narc-talk.html)
-- [alphaCertified: certifying solutions to polynomial systems](https://arxiv.org/abs/1011.1091)
-- [Improved convergence theorem for Newton](https://arxiv.org/ftp/arxiv/papers/1503/1503.03543.pdf)
-- [Generalizations of Newton's Method](https://www.math.uwaterloo.ca/~wgilbert/Research/GilbertFractals.pdf)
+- [ ] [Newton's Method](https://link.springer.com/chapter/10.1007%2F978-1-4612-0701-6_8)
+- [ ] [Relaxed Newton's Method](https://pdfs.semanticscholar.org/1844/34b366f337972aa94a601fabd251d0baf62f.pdf)
+- [ ] [Convergence of Pure and Relaxed Newton Methods](https://www.sciencedirect.com/science/article/pii/S00243795130067820)
+- [ ] [Smale's Alpha Theory for Newton Convergence](http://cswiercz.info/2016/01/20/narc-talk.html)
+- [ ] [alphaCertified: certifying solutions to polynomial systems](https://arxiv.org/abs/1011.1091)
+- [ ] [Improved convergence theorem for Newton](https://arxiv.org/ftp/arxiv/papers/1503/1503.03543.pdf)
+- [ ] [Generalizations of Newton's Method](https://www.math.uwaterloo.ca/~wgilbert/Research/GilbertFractals.pdf)
 
 Solving stiff ordinary differential equations, especially those which arise
 from partial differential equations, are the common bottleneck of scientific
@@ -439,21 +439,21 @@ have.
 
 ## Lecture 10: Basic Parameter Estimation, Reverse-Mode AD, and Inverse Problems
 
-- [Basic Parameter Estimation, Reverse-Mode AD, and Inverse Problems (Lecture)](https://youtu.be/XQAe4pEZ6L4)
-- [Basic Parameter Estimation, Reverse-Mode AD, and Inverse Problems (Notes)](https://mitmath.github.io/18337/lecture10/estimation_identification)
+- [ ] [Basic Parameter Estimation, Reverse-Mode AD, and Inverse Problems (Lecture)](https://youtu.be/XQAe4pEZ6L4)
+- [ ] [Basic Parameter Estimation, Reverse-Mode AD, and Inverse Problems (Notes)](https://mitmath.github.io/18337/lecture10/estimation_identification)
 
 Now that we have models, how do you fit the models to data? This lecture goes through the basic shooting method for parameter estimation, showcases how it's equivalent to training neural networks, and gives an in-depth discussion of how reverse-mode automatic differentiation is utilized in the training process for the efficient calculation of gradients.
 
 ## Lecture 11: Differentiable Programming and Neural Differential Equations
 
-- [Differentiable Programming Part 1: Reverse-Mode AD Implementation (Lecture)](https://youtu.be/fXcekZZP-1A)
-- [Differentiable Programming Part 2: Adjoint Derivation for (Neural) ODEs and Nonlinear Solve (Lecture)](https://youtu.be/KCTfPyVIxpc)
-- [Differentiable Programming and Neural Differential Equations (Notes)](https://mitmath.github.io/18337/lecture11/adjoints)
+- [ ] [Differentiable Programming Part 1: Reverse-Mode AD Implementation (Lecture)](https://youtu.be/fXcekZZP-1A)
+- [ ] [Differentiable Programming Part 2: Adjoint Derivation for (Neural) ODEs and Nonlinear Solve (Lecture)](https://youtu.be/KCTfPyVIxpc)
+- [ ] [Differentiable Programming and Neural Differential Equations (Notes)](https://mitmath.github.io/18337/lecture11/adjoints)
 
 ### Additional Readings on AD Implementations
 
-- [Non-local compiler transformations in the presence of dynamic dispatch (Diffractor.jl and higher order AD via Category Theory)](https://youtu.be/mQnSRfseu0c)
-- [JAX: accelerated machine learning research via composable function transformations in Python](https://youtu.be/BzuEGdGHKjc)
+- [ ] [Non-local compiler transformations in the presence of dynamic dispatch (Diffractor.jl and higher order AD via Category Theory)](https://youtu.be/mQnSRfseu0c)
+- [ ] [JAX: accelerated machine learning research via composable function transformations in Python](https://youtu.be/BzuEGdGHKjc)
 
 Given the efficiency of reverse-mode automatic differentiation, we want to see
 how far we can push this idea. How could one implement reverse-mode AD without
@@ -468,8 +468,8 @@ enter scientific computing.
 Guest Lecturer: Lauren E. Milechin, MIT Lincoln Lab and the MIT Supercloud
 Guest Writer: Jeremy Kepner, MIT Lincoln Lab and the MIT Supercloud
 
-- [Introduction to MPI.jl (Lecture)](https://www.youtube.com/watch?v=LCIJj0czofo)
-- [Introduction to MPI.jl (Notes: PDF)](https://github.com/mitmath/18337/blob/master/lecture12/MPI.jl.pdf)
+- [ ] [Introduction to MPI.jl (Lecture)](https://www.youtube.com/watch?v=LCIJj0czofo)
+- [ ] [Introduction to MPI.jl (Notes: PDF)](https://github.com/mitmath/18337/blob/master/lecture12/MPI.jl.pdf)
 
 In this lecture we went over the basics of MPI (Message Passing Interface) for distributed computing and examples on how to use MPI.jl to write parallel programs that work efficiently over multiple computers (or "compute nodes"). The MPI programming model and the job scripts required for using MPI on the MIT Supercloud HPC were demonstrated.
 
@@ -477,11 +477,11 @@ In this lecture we went over the basics of MPI (Message Passing Interface) for d
 
 Guest Lecturer: Jeremy Kepner, MIT Lincoln Lab and the MIT Supercloud
 
-- [Mathematics of Big Data and Machine Learning (Lecture)](https://youtu.be/0sKPkJME2Jw?t=26)
-- [Mathematical Foundations of the GraphBLAS and Big Data (Lecture)](https://youtu.be/gZSNp6XbOK8?t=17)
-- [AI Data Architecture (Lecture)](https://youtu.be/RpPlj2HnuWg?t=1412)
-- [Performance Metrics and Software Architecture (Book Chapter)](https://github.com/mitmath/18337/blob/master/lecture12/PerformanceMetricsSoftwareArchitecture.pdf)
-- [Optimizing Xeon Phi for Interactive Data Analysis (Paper)](https://github.com/mitmath/18337/blob/master/lecture12/OptimizingXeonPhi-PID6086383.pdf)
+- [ ] [Mathematics of Big Data and Machine Learning (Lecture)](https://youtu.be/0sKPkJME2Jw?t=26)
+- [ ] [Mathematical Foundations of the GraphBLAS and Big Data (Lecture)](https://youtu.be/gZSNp6XbOK8?t=17)
+- [ ] [AI Data Architecture (Lecture)](https://youtu.be/RpPlj2HnuWg?t=1412)
+- [ ] [Performance Metrics and Software Architecture (Book Chapter)](https://github.com/mitmath/18337/blob/master/lecture12/PerformanceMetricsSoftwareArchitecture.pdf)
+- [ ] [Optimizing Xeon Phi for Interactive Data Analysis (Paper)](https://github.com/mitmath/18337/blob/master/lecture12/OptimizingXeonPhi-PID6086383.pdf)
 
 In this lecture we went over the mathematics behind big data, machine learning, and high performance computing. Pieces like Amdahl's law for describing maximal parallel compute efficiency were described and demonstrated to showcase some hard ceiling on the capabilities of parallel computing, and these laws were described in the context of big data computations in order to assess the viability of distributed computing within that domain's context.
 
@@ -489,10 +489,10 @@ In this lecture we went over the mathematics behind big data, machine learning, 
 
 Guest Lecturer: Valentin Churavy, MIT Julia Lab
 
-- [Parallel Computing: From SIMD to SIMT (Lecture)](https://youtu.be/KCYlEub_8xc)
-- [GPU Computing in Julia](https://youtu.be/v9bFRg4rUfk)
-- [Parallel Computing: From SIMD to SIMT (Notes)](https://docs.google.com/presentation/d/1C1dt8zeNW7spgswr2CmLrE0G-ayj0ItvoEWHdX_0kYc/edit#slide=id.g76b4384d33_0_5)
-- [GPU Computing in Julia (Notes)](https://docs.google.com/presentation/d/1QvHE_xVDKnPA3-nowzpZY1lUdXr7B8rLCu2usOz8KT8/edit#slide=id.gb00e54ec3a_0_477)
+- [ ] [Parallel Computing: From SIMD to SIMT (Lecture)](https://youtu.be/KCYlEub_8xc)
+- [ ] [GPU Computing in Julia](https://youtu.be/v9bFRg4rUfk)
+- [ ] [Parallel Computing: From SIMD to SIMT (Notes)](https://docs.google.com/presentation/d/1C1dt8zeNW7spgswr2CmLrE0G-ayj0ItvoEWHdX_0kYc/edit#slide=id.g76b4384d33_0_5)
+- [ ] [GPU Computing in Julia (Notes)](https://docs.google.com/presentation/d/1QvHE_xVDKnPA3-nowzpZY1lUdXr7B8rLCu2usOz8KT8/edit#slide=id.gb00e54ec3a_0_477)
 
 In this lecture we take a deeper dive into the architectural differences of GPUs
 and how that changes the parallel computing mindset that's required to arrive
@@ -502,12 +502,12 @@ compilation for such hardware.
 
 ## Lecture 14: Partial Differential Equations and Convolutional Neural Networks
 
-- [PDEs, Convolutions, and the Mathematics of Locality (Lecture)](https://youtu.be/apkyk8n0vBo)
-- [PDEs, Convolutions, and the Mathematics of Locality (Notes)](https://mitmath.github.io/18337/lecture14/pdes_and_convolutions)
+- [ ] [PDEs, Convolutions, and the Mathematics of Locality (Lecture)](https://youtu.be/apkyk8n0vBo)
+- [ ] [PDEs, Convolutions, and the Mathematics of Locality (Notes)](https://mitmath.github.io/18337/lecture14/pdes_and_convolutions)
 
 ### Additional Readings
 
-- [Deep Neural Networks Motivated by Partial Differential Equations](https://arxiv.org/abs/1804.04272)
+- [ ] [Deep Neural Networks Motivated by Partial Differential Equations](https://arxiv.org/abs/1804.04272)
 
 In this lecture we will continue to relate the methods of machine learning to
 those in scientific computing by looking at the relationship between convolutional
@@ -516,8 +516,8 @@ than just similar: the two are both stencil computations on spatial data!
 
 ## Lecture 15: More Algorithms which Connect Differential Equations and Machine Learning
 
-- [Mixing Differential Equations and Neural Networks for Physics-Informed Learning (Lecture)](https://youtu.be/VHtugbwyNKg)
-- [Mixing Differential Equations and Neural Networks for Physics-Informed Learning (Notes)](https://mitmath.github.io/18337/lecture15/diffeq_machine_learning)
+- [ ] [Mixing Differential Equations and Neural Networks for Physics-Informed Learning (Lecture)](https://youtu.be/VHtugbwyNKg)
+- [ ] [Mixing Differential Equations and Neural Networks for Physics-Informed Learning (Notes)](https://mitmath.github.io/18337/lecture15/diffeq_machine_learning)
 
 Neural ordinary differential equations and physics-informed neural networks are
 only the tip of the iceberg. In this lecture we will look into other algorithms
@@ -541,8 +541,8 @@ applications can be used effectively.
 
 ## Lecture 16: Probabilistic Programming
 
-- [From Optimization to Probabilistic Programming (Lecture)](https://youtu.be/32rAwtTAGdU)
-- [From Optimization to Probabilistic Programming (Notes)](https://mitmath.github.io/18337/lecture16/probabilistic_programming)
+- [ ] [From Optimization to Probabilistic Programming (Lecture)](https://youtu.be/32rAwtTAGdU)
+- [ ] [From Optimization to Probabilistic Programming (Notes)](https://mitmath.github.io/18337/lecture16/probabilistic_programming)
 
 All of our previous discussions lived in a deterministic world. Not this one.
 Here we turn to a probabilistic view and allow programs to have random variables.
@@ -566,15 +566,15 @@ programming to estimate distributions of probabilistic programs.
 
 ## Lecture 17: Global Sensitivity Analysis
 
-- [Global Sensitivity Analysis (Lecture)](https://youtu.be/wzTpoINJyBQ)
-- [Global Sensitivity Analysis (Notes)](https://mitmath.github.io/18337/lecture17/global_sensitivity)
+- [ ] [Global Sensitivity Analysis (Lecture)](https://youtu.be/wzTpoINJyBQ)
+- [ ] [Global Sensitivity Analysis (Notes)](https://mitmath.github.io/18337/lecture17/global_sensitivity)
 
 Our previous analysis of sensitivities was all local. What does it mean to example the sensitivities of a model globally? It turns out the probabilistic programming viewpoint gives us a solid way of describing how we expect values to be changing over larger sets of parameters via the random variables that describe the program's inputs. This means we can decompose the output variance into indices which can be calculated via various quadrature approximations which then give a tractable measurement to "variable x has no effect on the mean solution".
 
 ## Lecture 18: Code Profiling and Optimization
 
-- [Code Profiling and Optimization (Lecture)](https://youtu.be/h-xVBD2Pk9o)
-- [Code Profiling and Optimization (Notes)](https://mitmath.github.io/18337/lecture18/code_profiling)
+- [ ] [Code Profiling and Optimization (Lecture)](https://youtu.be/h-xVBD2Pk9o)
+- [ ] [Code Profiling and Optimization (Notes)](https://mitmath.github.io/18337/lecture18/code_profiling)
 
 How do you put everything together in this course? Let's take a look at a PDE
 solver code given in a method of lines form. In this lecture I walk through the
@@ -583,8 +583,8 @@ between variable caching and automatic differentiation.
 
 ## Lecture 19: Uncertainty Programming and Generalized Uncertainty Quantification
 
-- [Uncertainty Programming (Lecture)](https://youtu.be/MRTXK2Vc0YE)
-- [Uncertainty Programming (Notes)](https://mitmath.github.io/18337/lecture19/uncertainty_programming)
+- [ ] [Uncertainty Programming (Lecture)](https://youtu.be/MRTXK2Vc0YE)
+- [ ] [Uncertainty Programming (Notes)](https://mitmath.github.io/18337/lecture19/uncertainty_programming)
 
 We end the course by taking a look at another mathematical topic to see whether
 it can be addressed in a similar manner: uncertainty quantification (UQ). There
