@@ -161,70 +161,70 @@ Each topic is a group of three pieces: a numerical method, a performance-enginee
 technique, and a scientific application. These three together form a complete
 usable program that is demonstrated.
 
-- The basics of scientific simulators (Week 1-2)
-  - What is Scientific Machine Learning?
-  - Optimization of serial code.
-  - Introduction to discrete and continuous dynamical systems.
-- Introduction to Parallel Computing (Week 2-3)
-  - Forms of parallelism and applications
-  - Parallelizing differential equation solvers
-  - Optimal local parallelism via multithreading
-  - Linear Algebra libraries you should know
+- [ ] The basics of scientific simulators (Week 1-2)
+  - [ ] What is Scientific Machine Learning?
+  - [ ] Optimization of serial code.
+  - [ ] Introduction to discrete and continuous dynamical systems.
+- [ ] Introduction to Parallel Computing (Week 2-3)
+  - [ ] Forms of parallelism and applications
+  - [ ] Parallelizing differential equation solvers
+  - [ ] Optimal local parallelism via multithreading
+  - [ ] Linear Algebra libraries you should know
 
 Homework 1: Parallelized dynamical system simulations and ODE integrators
 
-- Continuous Dynamics (Week 4)
-  - Ordinary differential equations as the language for ecology, Newtonian mechanics,
+- [ ] Continuous Dynamics (Week 4)
+  - [ ] Ordinary differential equations as the language for ecology, Newtonian mechanics,
     and beyond.
-  - Numerical methods for non-stiff ordinary differential equations
-  - Definition of stiffness
-  - Efficiently solving stiff ordinary differential equations
-  - Stiff differential equations arising from biochemical interactions in developmental
+  - [ ] Numerical methods for non-stiff ordinary differential equations
+  - [ ] Definition of stiffness
+  - [ ] Efficiently solving stiff ordinary differential equations
+  - [ ] Stiff differential equations arising from biochemical interactions in developmental
     biology and ecology
-  - Utilizing type systems and generic algorithms as a mathematical tool
-  - Forward-mode automatic differentiation for solving f(x)=0
-  - Matrix coloring and sparse differentiation
+  - [ ] Utilizing type systems and generic algorithms as a mathematical tool
+  - [ ] Forward-mode automatic differentiation for solving f(x)=0
+  - [ ] Matrix coloring and sparse differentiation
 
 Homework 2: Parameter estimation in dynamical systems and overhead of parallelism
 
-- Inverse problems and Differentiable Programming (Week 6)
-  - Definition of inverse problems with applications to clinical pharmacology
+- [ ] Inverse problems and Differentiable Programming (Week 6)
+  - [ ] Definition of inverse problems with applications to clinical pharmacology
     and smartgrid optimization
-  - Adjoint methods for fast gradients
-  - Automated adjoints through reverse-mode automatic differentiation (backpropogation)
-  - Adjoints of differential equations
-  - Using neural ordinary differential equations as a memory-efficient RNN for
+  - [ ] Adjoint methods for fast gradients
+  - [ ] Automated adjoints through reverse-mode automatic differentiation (backpropogation)
+  - [ ] Adjoints of differential equations
+  - [ ] Using neural ordinary differential equations as a memory-efficient RNN for
     deep learning
-- Neural networks, and array-based parallelism (Week 8)
-  - Cache optimization in numerical linear algebra
-  - Parallelism through array operations
-  - How to optimize algorithms for GPUs
-- Distributed parallel computing (Jeremy Kepner: Weeks 7-8)
-  - Forms of parallelism
-  - Using distributed computing vs multithreading
-  - Message passing and deadlock
-  - Map-Reduce as a framework for distributed parallelism
-  - Implementing distributed parallel algorithms with MPI
+- [ ] Neural networks, and array-based parallelism (Week 8)
+  - [ ] Cache optimization in numerical linear algebra
+  - [ ] Parallelism through array operations
+  - [ ] How to optimize algorithms for GPUs
+- [ ] Distributed parallel computing (Jeremy Kepner: Weeks 7-8)
+  - [ ] Forms of parallelism
+  - [ ] Using distributed computing vs multithreading
+  - [ ] Message passing and deadlock
+  - [ ] Map-Reduce as a framework for distributed parallelism
+  - [ ] Implementing distributed parallel algorithms with MPI
 
 Homework 3: Training neural ordinary differential equations (with GPUs)
 
-- Physics-Informed Neural Networks and Neural Differential Equations (Week 9-10)
-  - Automatic discovery of differential equations
-  - Solving differential equations with neural networks
-  - Discretizations of PDEs
-  - Basics of neural networks and definitions
-  - The relationship between convolutional neural networks and PDEs
-- Probabilistic Programming, AKA Bayesian Estimation on Programs (Week 10-11)
-  - The connection between optimization and Bayesian methods: Bayesian posteriors
+- [ ] Physics-Informed Neural Networks and Neural Differential Equations (Week 9-10)
+  - [ ] Automatic discovery of differential equations
+  - [ ] Solving differential equations with neural networks
+  - [ ] Discretizations of PDEs
+  - [ ] Basics of neural networks and definitions
+  - [ ] The relationship between convolutional neural networks and PDEs
+- [ ] Probabilistic Programming, AKA Bayesian Estimation on Programs (Week 10-11)
+  - [ ] The connection between optimization and Bayesian methods: Bayesian posteriors
     vs MAP optimization
-  - Introduction to Markov-Chain Monte Carlo methods
-  - Hamiltonian Monte Carlo is just a symplectic ODE solver
-  - Uncertainty quantification of parameter estimates through posteriors
-- Globalizing the understanding of models (Week 11-12)
-  - Global sensitivity analysis
-  - Global optimization
-  - Surrogate Modeling
-  - Uncertainty Quantification
+  - [ ] Introduction to Markov-Chain Monte Carlo methods
+  - [ ] Hamiltonian Monte Carlo is just a symplectic ODE solver
+  - [ ] Uncertainty quantification of parameter estimates through posteriors
+- [ ] Globalizing the understanding of models (Week 11-12)
+  - [ ] Global sensitivity analysis
+  - [ ] Global optimization
+  - [ ] Surrogate Modeling
+  - [ ] Uncertainty Quantification
 
 # Homeworks
 
