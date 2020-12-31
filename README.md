@@ -241,7 +241,7 @@ than 1 class day, others are less.
 
 ### Lecture and Notes
 
-- [ ] [Introduction and Syllabus (Lecture)](https://youtu.be/3IoqyXmAAkU)
+- [x] [Introduction and Syllabus (Lecture)](https://youtu.be/3IoqyXmAAkU)
 
 This is to make sure we're all on the same page. It goes over the syllabus and
 what will be expected of you throughout the course. If you have not joined the Slack,
@@ -251,26 +251,22 @@ please use the link from the introduction email (or email me if you need the lin
 
 ### Lecture and Notes
 
-- [ ] [Getting Started with Julia for Experienced Programmers (Lecture)](https://youtu.be/-lJK92bEKow)
-- [ ] [Julia for Numerical Computation in MIT Courses](https://github.com/mitmath/julia-mit)
-- [ ] [Steven Johnson: MIT Julia Tutorial](https://mit.zoom.us/rec/play/E4zN_2MXQmCjX12admWsmsbG6hIlWJztnMmFjlfDEBnlAj8V2qisRn-CLI_WVnUGJFZ4bV6JGM-41m-u.LeAWxiLriV5HwqBK?startTime=1599594382000)
+- [x] [Getting Started with Julia for Experienced Programmers (Lecture)](https://youtu.be/-lJK92bEKow)
+- [x] [Julia for Numerical Computation in MIT Courses](https://github.com/mitmath/julia-mit)
 
 ### Optional Extra Resources
 
 If you are not comfortable with Julia yet, here's a few resources as sort of a
 "crash course" to get you up an running:
 
-- [ ] [The Julia Manual](https://docs.julialang.org/en/v1/)
-- [ ] [Developing Julia Packages](https://youtu.be/QVmU29rCjaA)
-- [ ] [Julia Tutorial (Youtube Video by Jane Herriman)](https://www.youtube.com/watch?v=8h8rQyEpiZA)
+- [x] [The Julia Manual](https://docs.julialang.org/en/v1/)
+- [x] [Developing Julia Packages](https://youtu.be/QVmU29rCjaA)
+- [x] [Julia Tutorial (Youtube Video by Jane Herriman)](https://www.youtube.com/watch?v=8h8rQyEpiZA)
 
 Some deeper materials:
 
-- [ ] [ThinkJulia](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)
-- [ ] [Julia Wikibook](https://en.wikibooks.org/wiki/Introducing_Julia)
-- [ ] [Intro To Julia for Data Science and Scientific Computing (With Problems and Answers)](http://ucidatascienceinitiative.github.io/IntroToJulia/)
-- [ ] [QuantEcon Cheatsheet](https://cheatsheets.quantecon.org/)
-- [ ] [Julia Noteworthy Differences from Other Languages](https://docs.julialang.org/en/v1/manual/noteworthy-differences/)
+- [x] [QuantEcon Cheatsheet](https://cheatsheets.quantecon.org/)
+- [x] [Julia Noteworthy Differences from Other Languages](https://docs.julialang.org/en/v1/manual/noteworthy-differences/)
 
 Steven Johnson will be running a Julia workshop on 9/8/2020 for people who are
 interested. More details TBA.
